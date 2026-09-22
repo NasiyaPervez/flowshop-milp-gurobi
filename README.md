@@ -7,7 +7,7 @@ benchmarked on the VFR instances.
 ## What this is
 
 Coursework for *Optimization Implementation in Production and Logistics* (OVGU
-Magdeburg), Assignment 2. A flow-shop has `n` jobs that all visit `m` machines in
+Magdeburg). A flow-shop has `n` jobs that all visit `m` machines in
 the same order; in a *permutation* flow-shop the jobs keep that order on every
 machine. The goal is a schedule that minimises the **makespan** (the completion
 time of the last job on the last machine).
